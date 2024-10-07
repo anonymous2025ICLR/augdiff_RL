@@ -7,7 +7,7 @@ This repository contains the necessary code to reproduce the experiments describ
 
 - **V-D4RL experiments**: Run using the `v-d4rl` submodule. Detailed instructions are available in the [original v-d4rl repository](https://github.com/conglu1997/v-d4rl).
 - **Procgen experiments**: Run using the `gen_dgrl` submodule. Instructions can be found in the [original gen_dgrl repository](https://github.com/facebookresearch/gen_dgrl/tree/9fa7e3a314491f1659e561da13c04cf982cb9897).
-- **Diffusion model sample generation**: Run using the `SynthER` submodule which is documented in [original SynthER code base](https://github.com/conglu1997/SynthER). 
+- **Diffusion model sample generation**: Run using the `SynthER` submodule which is documented in [the original SynthER code base](https://github.com/conglu1997/SynthER). 
 
 ## Hyperparameters
 All hyperparameters used in our experiments are available in the **Supplementary Material**.
