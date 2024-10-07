@@ -1,0 +1,9 @@
+[submodule "v-d4rl"]
+	path = v-d4rl
+	url = https://github.com/conglu1997/v-d4rl.git
+[submodule "SynthER"]
+	path = SynthER
+	url = https://github.com/conglu1997/SynthER.git
+[submodule "gen_dgrl"]
+	path = gen_dgrl
+	url = https://github.com/facebookresearch/gen_dgrl.git
